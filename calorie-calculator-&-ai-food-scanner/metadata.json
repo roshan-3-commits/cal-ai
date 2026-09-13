@@ -1,0 +1,6 @@
+{
+  "name": "Free Calorie Calculator",
+  "description": "Fast, clean calorie calculator with macro & water targets based on the Mifflin-St Jeor equation, zero data collection, and AI food scanning.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
